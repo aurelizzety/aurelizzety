@@ -49,11 +49,11 @@
   </a>
 </p>
 
-### &#129668; &nbsp;Connect with Me
+### 🪄 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/Aurel%20Izzety-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/Aurel%20Izzety-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/aurelizzety@gmail.com-B04759?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.behance.net/relzzy"><img src="https://img.shields.io/badge/Aurel%20Izzety-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+  <a href="https://behance.net/relzzy"><img src="https://img.shields.io/badge/Aurel%20Izzety-1769FF?style=flat&logo=behance&logoColor=white"/></a>
   <a href="https://dribbble.com/relzzy"><img src="https://img.shields.io/badge/Aurel%20Izzety-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
 </p>
