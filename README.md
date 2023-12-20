@@ -49,7 +49,7 @@
   </a>
 </p>
 
-### 🪄 &nbsp;Connect with Me
+### &#129668; &nbsp;Connect with Me
 
 <p align="left">
   <a href="https://https://www.linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/Aurel%20Izzety-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
