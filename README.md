@@ -10,6 +10,9 @@
 - I'm learning about UI/UX Design and Web Development.
 - I enjoy learning and exploring new technologies related to software development.
 
+### 📄 &nbsp;Note
+The public project repository has been changed to private due to some considerations and developments.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
@@ -24,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=326B9B)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=5C6BBE)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Haskell](https://img.shields.io/badge/Haskell-05122A?style=flat&logo=haskell&logoColor=5D4F85)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=nodemon&logoColor=76D04B)&nbsp;
