@@ -7,16 +7,17 @@
 ### 👩🏻‍💻 &nbsp;About Me
 
 - I'm currently studying for a Bachelor of Informatics at Universitas Pembangunan Nasional Veteran Jakarta.
-- I'm learning about UI/UX Design and Web Development.
+- I'm learning about Web Development and UI/UX Design.
 - I enjoy learning and exploring new technologies related to software development.
 
 ### 📄 &nbsp;Note
-The public project repository has been changed to private due to some considerations and developments.
+> The public project repository has been changed to private due to some considerations and developments.
 
 ### 🛠 &nbsp;Tech Stack
 
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva&logoColor=00C4CC)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Laragon](https://img.shields.io/badge/Laragon-05122A?style=flat&logo=laragon&logoColor=0E83CD)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -26,7 +27,6 @@ The public project repository has been changed to private due to some considerat
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=5EC8F8)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=326B9B)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=5C6BBE)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=nodemon&logoColor=76D04B)&nbsp;
@@ -37,6 +37,7 @@ The public project repository has been changed to private due to some considerat
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
 
