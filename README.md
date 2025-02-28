@@ -1,10 +1,10 @@
 <div>
   <div>
     <img alt="Greetings" src="peach.gif" width="40"/> &nbsp
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&pause=1000&weight=500&color=78B3CE&vCenter=true&width=300&height=30&lines=Hello%2C+My+name+is+Aurel" alt="Typing SVG"  /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&pause=1000&weight=500&color=60A6B6&vCenter=true&width=300&height=30&lines=Hello%2C+My+name+is+Aurel" alt="Typing SVG"  /></a>
   </div>
   <div>
-    <img alt="Aurel's Number of Visitors" src="https://komarev.com/ghpvc/?username=aurelizzety&color=67A4AC&label=Number+of+Visitors" align="right"/> <br><br>
+    <img alt="Aurel's Number of Visitors" src="https://komarev.com/ghpvc/?username=aurelizzety&color=60A6B6&label=Number+of+Visitors" align="right"/> <br><br>
   </div>
 </div> 
 
