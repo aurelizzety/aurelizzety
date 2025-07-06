@@ -44,13 +44,13 @@
   ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
 </details>
 
-<details>
+<details open>
   <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h5></summary>
   <p align="center">
     <a href="https://github.com/aurelizzety">
-      <img alt="Aurel's Grade Card" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>    
-      <img src="https://pixel-profile.vercel.app/api/github-stats?username=aurelizzety&theme=monica&pixelate_avatar=false&include_all_commits=true"/>
-      <img  width="750" alt="Aurel's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
+      <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>    
+      <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" />
+      <img alt="Aurel's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
     </a>
   </p>
 </details>
