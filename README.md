@@ -24,7 +24,6 @@
   ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
   ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=326B9B)&nbsp;
-  ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=5C6BBE)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
@@ -41,7 +40,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
   ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
-  ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
 </details>
 
 <details open>
