@@ -10,12 +10,25 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-- I'm currently studying for a Bachelor of Informatics at Universitas Pembangunan Nasional Veteran Jakarta.
-- I enjoy learning and exploring new technologies related to software development.
-- With hands-on experience in back-end development and UI/UX design, I am dedicated to continuously enhancing my expertise in these fields.
+Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informatics with a passion for building robust and intuitive digital solutions.
+- Specializing in **Back-End Development**, I excel at architecting and implementing **RESTful APIs** using **Laravel and PHP** to create scalable and efficient systems.
+- My experience extends to **Mobile UI/UX Design with Figma**, ensuring a user-centered approach to every project, as demonstrated by securing national funding for the CutsConnect app.
+- Driven by continuous learning, I'm always exploring new technologies and am proficient in MySQL, Git, and various developer tools.
+- **Actively seeking a challenging Back-End Developer or Software Engineer role** where I can apply my expertise in a collaborative environment.
 
 ### 📄 &nbsp;Note
 > The public project repository has been changed to private due to some considerations and developments.
+
+<details open>
+  <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h5></summary>
+  <p align="left">
+    <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/Gmail-D84040?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="https://behance.net/relzzy"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+    <a href="https://dribbble.com/relzzy"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+    <a href="https://medium.com/@aurelizzety"><img src="https://img.shields.io/badge/Medium-141414?style=flat&logo=medium&logoColor=white"/></a>
+  </p>
+</details>
 
 <details open>
   <summary><h3 style="display:inline-block">🛠 &nbsp;Tech Stack</h5></summary>
@@ -42,25 +55,22 @@
   ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
 </details>
 
-<details open>
-  <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h5></summary>
-  <p align="center">
-    <a href="https://github.com/aurelizzety">
-      <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>    
-      <img alt="Aurel's GitHub Stats Card" width="750" src="https://github-readme-stats.vercel.app/api?username=aurelizzety&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true"/>   
-      <!-- <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" /> -->
-      <img alt="Aurel's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
-    </a>
+<details close>
+  <summary><h3 style="display:inline-block">🚀 &nbsp;Currently Learning / Exploring</h5></summary>
+  <p align="left">
+    • Java (Spring Boot): Expanding my backend toolkit with a focus on enterprise-grade application development and microservices. <br>
+    • TypeScript (Deno & Bun): Exploring modern JavaScript runtimes and type-safe development to build high-performance web applications and APIs.
   </p>
 </details>
 
 <details open>
-  <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h5></summary>
-  <p align="left">
-    <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/Gmail-D84040?style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://behance.net/relzzy"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
-    <a href="https://dribbble.com/relzzy"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
-    <a href="https://medium.com/@aurelizzety"><img src="https://img.shields.io/badge/Medium-141414?style=flat&logo=medium&logoColor=white"/></a>
+  <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h5></summary>
+  <p align="center">
+    <a href="https://github.com/aurelizzety">
+      <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>
+      <img alt="Aurel's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
+      <img alt="Aurel's GitHub Stats Card" width="750" src="https://github-readme-stats.vercel.app/api?username=aurelizzety&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true"/>   
+      <!-- <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" /> -->
+    </a>
   </p>
 </details>
