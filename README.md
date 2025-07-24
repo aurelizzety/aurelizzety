@@ -47,17 +47,20 @@
   <p align="center">
     <a href="https://github.com/aurelizzety">
       <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>    
-      <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" />
+      <img alt="Aurel's GitHub Stats Card" width="750" src="https://github-readme-stats.vercel.app/api?username=aurelizzety&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true"/>   
+      <!-- <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" /> -->
       <img alt="Aurel's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
     </a>
   </p>
 </details>
 
-### 🪄 &nbsp;Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/Gmail-D84040?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://behance.net/relzzy"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
-  <a href="https://dribbble.com/relzzy"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
-</p>
+<details open>
+  <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h5></summary>
+  <p align="left">
+    <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/Gmail-D84040?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="https://behance.net/relzzy"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+    <a href="https://dribbble.com/relzzy"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+    <a href="https://medium.com/@aurelizzety"><img src="https://img.shields.io/badge/Medium-141414?style=flat&logo=medium&logoColor=white"/></a>
+  </p>
+</details>
