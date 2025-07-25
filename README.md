@@ -20,7 +20,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
 > The public project repository has been changed to private due to some considerations and developments.
 
 <details open>
-  <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h5></summary>
+  <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h3></summary>
   <p align="left">
     <a href="https://linkedin.com/in/aurelizzety/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:aurelizzety@gmail.com"><img src="https://img.shields.io/badge/Gmail-D84040?style=flat&logo=gmail&logoColor=white"/></a>
@@ -31,7 +31,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
 </details>
 
 <details open>
-  <summary><h3 style="display:inline-block">🛠 &nbsp;Tech Stack</h5></summary>
+  <summary><h3 style="display:inline-block">🛠 &nbsp;Tech Stack</h3></summary>
   
   ![Laragon](https://img.shields.io/badge/Laragon-05122A?style=flat&logo=laragon&logoColor=0E83CD)&nbsp;
   ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
@@ -56,7 +56,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
 </details>
 
 <details close>
-  <summary><h3 style="display:inline-block">🚀 &nbsp;Currently Learning / Exploring</h5></summary>
+  <summary><h3 style="display:inline-block">🚀 &nbsp;Currently Learning / Exploring</h3></summary>
   <p align="left">
     • Java (Spring Boot): Expanding my backend toolkit with a focus on enterprise-grade application development and microservices. <br>
     • TypeScript (Deno & Bun): Exploring modern JavaScript runtimes and type-safe development to build high-performance web applications and APIs.
@@ -64,7 +64,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
 </details>
 
 <details open>
-  <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h5></summary>
+  <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h3></summary>
   <p align="center">
     <a href="https://github.com/aurelizzety">
       <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>
