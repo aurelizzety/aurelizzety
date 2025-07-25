@@ -16,8 +16,12 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
 - Driven by continuous learning, I'm always exploring new technologies and am proficient in MySQL, Git, and various developer tools.
 - **Actively seeking a challenging Back-End Developer or Software Engineer role** where I can apply my expertise in a collaborative environment.
 
+<br>
+
 ### 📄 &nbsp;Note
 > The public project repository has been changed to private due to some considerations and developments.
+
+<br>
 
 <details open>
   <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h3></summary>
@@ -29,6 +33,8 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
     <a href="https://medium.com/@aurelizzety"><img src="https://img.shields.io/badge/Medium-141414?style=flat&logo=medium&logoColor=white"/></a>
   </p>
 </details>
+
+<br>
 
 <details open>
   <summary><h3 style="display:inline-block">🛠 &nbsp;Tech Stack</h3></summary>
@@ -55,6 +61,8 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
   ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
 </details>
 
+<br>
+
 <details close>
   <summary><h3 style="display:inline-block">🚀 &nbsp;Currently Learning / Exploring</h3></summary>
   <p align="left">
@@ -62,6 +70,8 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
     • TypeScript (Deno & Bun): Exploring modern JavaScript runtimes and type-safe development to build high-performance web applications and APIs.
   </p>
 </details>
+
+<br>
 
 <details open>
   <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h3></summary>
