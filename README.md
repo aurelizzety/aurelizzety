@@ -8,19 +8,30 @@
   </div>
 </div> 
 
-### 👩🏻‍💻 &nbsp;About Me
+<details open>
+  <summary><h3>👩🏻‍💻 &nbsp;About Me</h3></summary>
 
 Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informatics with a passion for building robust and intuitive digital solutions.
 - Specializing in **Back-End Development**, I excel at architecting and implementing **RESTful APIs** using **Laravel and PHP** to create scalable and efficient systems. My recent work includes engineering the comprehensive back-end for the **[Inventaris FIK UPNVJ](https://www.linkedin.com/posts/aurelizzety_project-details-of-inventory-management-and-activity-7350184352091189248-VvUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMAzN0BczmYwg_ySiGgokGtS9qcrPAYZSE)** asset management platform, designed to automate manual inventory processes.
 - My experience extends to **Mobile UI/UX Design with Figma**, ensuring a user-centered approach to every project, as demonstrated by securing national funding for the **[CutsConnect](https://play.google.com/store/apps/details?id=com.cutsconnect_team.cutsconnect)** app.
 - **Actively seeking a challenging Back-End Developer or Software Engineer role** where I can apply my expertise in a collaborative environment.
+  
+</details>
+
 
 <br>
 
-### 📄 &nbsp;Note
-> The public project repository has been changed to private due to some considerations and developments.
+
+<details open>
+  <summary><h3>📄 &nbsp;Note</h3></summary>
+
+  > The public project repository has been changed to private due to some considerations and developments.
+
+</details>
+
 
 <br>
+
 
 <details open>
   <summary><h3 style="display:inline-block">🪄 &nbsp;Connect with Me</h3></summary>
@@ -33,47 +44,70 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
   </p>
 </details>
 
+
 <br>
 
+
 <details open>
-  <summary><h3 style="display:inline-block">🛠 &nbsp;Tech Stack</h3></summary>
+  <summary><h3>🛠 &nbsp;Tech Stack</h3></summary>
+
+  <h4>Programming and Markup Languages</h4>
+
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-233A51?style=flat)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=FFFFFF)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
+
+  <h4>Framework and Libraries</h4>
+
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=FFFFFF)&nbsp;
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=FFFFFF)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF)&nbsp;
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=FFFFFF)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=FFFFFF)&nbsp;
+  ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=FFFFFF)&nbsp;
   
-  ![Laragon](https://img.shields.io/badge/Laragon-05122A?style=flat&logo=laragon&logoColor=0E83CD)&nbsp;
-  ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=326B9B)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-  ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
-  ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=ffffff)&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
-  ![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=nodemon&logoColor=76D04B)&nbsp;
-  ![XAMPP](https://img.shields.io/badge/XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=5CAADC)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
-  ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
+  <h4>Databases and Platforms</h4>
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLite-5CAADC?style=flat&logo=sqlite&logoColor=FFFFFF)&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=FFFFFF)&nbsp;
+  
+  <h4>Developer Tools</h4>
+
+  ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=FFFFFF)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF)&nbsp;
+  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=FFFFFF)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0098FF?style=flat&logoColor=FFFFFF)&nbsp;
+  
+  <h4>Design and Collaboration Tools</h4>
+   
+  ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
+  
 </details>
+
 
 <br>
 
-<details close>
-  <summary><h3 style="display:inline-block">🚀 &nbsp;Currently Learning / Exploring</h3></summary>
-  <p align="left">
-    • Java (Spring Boot): Expanding my backend toolkit with a focus on enterprise-grade application development and microservices. <br>
-    • TypeScript (Deno & Bun): Exploring modern JavaScript runtimes and type-safe development to build high-performance web applications and APIs.
-  </p>
-</details>
-
-<br>
 
 <details open>
-  <summary><h3 style="display:inline-block">📊 &nbsp;GitHub Statistics</h3></summary>
+  <summary><h3>💪🏻 &nbsp;Currently Learning / Exploring</h3></summary>
+  
+  - Java (Spring Boot): Expanding my backend toolkit with a focus on enterprise-grade application development and microservices. 
+  - TypeScript (Deno & Bun): Exploring modern JavaScript runtimes and type-safe development to build high-performance web applications and APIs.
+  
+</details>
+
+
+<br>
+
+
+<details open>
+  <summary><h3>📊 &nbsp;GitHub Statistics</h3></summary>
   <p align="center">
     <a href="https://github.com/aurelizzety">
       <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>
