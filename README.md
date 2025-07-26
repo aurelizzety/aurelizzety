@@ -11,9 +11,8 @@
 ### 👩🏻‍💻 &nbsp;About Me
 
 Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informatics with a passion for building robust and intuitive digital solutions.
-- Specializing in **Back-End Development**, I excel at architecting and implementing **RESTful APIs** using **Laravel and PHP** to create scalable and efficient systems.
-- My experience extends to **Mobile UI/UX Design with Figma**, ensuring a user-centered approach to every project, as demonstrated by securing national funding for the CutsConnect app.
-- Driven by continuous learning, I'm always exploring new technologies and am proficient in MySQL, Git, and various developer tools.
+- Specializing in **Back-End Development**, I excel at architecting and implementing **RESTful APIs** using **Laravel and PHP** to create scalable and efficient systems. My recent work includes engineering the comprehensive back-end for the **[Inventaris FIK UPNVJ](https://www.linkedin.com/posts/aurelizzety_project-details-of-inventory-management-and-activity-7350184352091189248-VvUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMAzN0BczmYwg_ySiGgokGtS9qcrPAYZSE)** asset management platform, designed to automate manual inventory processes.
+- My experience extends to **Mobile UI/UX Design with Figma**, ensuring a user-centered approach to every project, as demonstrated by securing national funding for the **[CutsConnect](https://play.google.com/store/apps/details?id=com.cutsconnect_team.cutsconnect)** app.
 - **Actively seeking a challenging Back-End Developer or Software Engineer role** where I can apply my expertise in a collaborative environment.
 
 <br>
