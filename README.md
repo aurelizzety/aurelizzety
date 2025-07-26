@@ -54,7 +54,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
   <h4>Programming and Markup Languages</h4>
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)&nbsp;
-  ![SQL](https://img.shields.io/badge/SQL-233A51?style=flat)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-5CAADC?style=flat)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=FFFFFF)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
@@ -71,7 +71,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
   <h4>Databases and Platforms</h4>
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-5CAADC?style=flat&logo=sqlite&logoColor=FFFFFF)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=FFFFFF)&nbsp;
   ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=FFFFFF)&nbsp;
   
   <h4>Developer Tools</h4>
@@ -86,6 +86,7 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
   <h4>Design and Collaboration Tools</h4>
    
   ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=FFFFFF)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
   
 </details>
