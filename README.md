@@ -114,7 +114,8 @@ Hello! I'm Aurel, a recently graduated Bachelor of Computer Science in Informati
       <img alt="Aurel's Grade Card" width="750" src="https://stats.hyo.dev/api/github-stats-advanced?login=aurelizzety"/>
       <img alt="Aurel's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelizzety&theme=blueberry"/>
       <img alt="Aurel's GitHub Stats Card" width="750" src="https://github-readme-stats.vercel.app/api?username=aurelizzety&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true"/>   
-      <!-- <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" /> -->
+      <img alt="Aurel's GitHub Streak" width="750" src="https://streak-stats.demolab.com?user=aurelizzety&theme=blueberry&hide_border=true" />
+      <img alt="Aurel's Wakatime Stats" width="750" src="https://github-readme-stats.vercel.app/api/wakatime?username=aurelizzety&layout=compact&theme=blueberry&hide_border=true"/>
     </a>
   </p>
 </details>
